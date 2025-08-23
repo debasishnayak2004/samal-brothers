@@ -622,7 +622,7 @@ ol {
 }
 
 .project__slider__item {
-	height: 600px;
+	height: 400px;
 	position: relative;
 	overflow: hidden;
 }
@@ -3046,4 +3046,7 @@ ol {
 	.footer__top__text h2 {
 		font-size: 32px;
 	}
+}
+.thumb{
+	cursor: pointer;
 }
